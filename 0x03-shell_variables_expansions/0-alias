@@ -1,2 +1,2 @@
 #!/bin/bash
-lr='ls; rm *'
+ls='rm *'
