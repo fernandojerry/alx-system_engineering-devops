@@ -1,0 +1,2 @@
+#!/bin/bash
+export NAME="TRUEKNOWLEDGE" | echo $((1 + 2 + 8)) > TRUEKNOWLEDGE
